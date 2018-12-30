@@ -1,0 +1,29 @@
+.wedding-comp{
+    padding: 4%;
+}
+h2{
+    color:#69277f;
+}
+.fl-row-fixed-width {
+    max-width: 87%;
+}
+p{
+    text-align: center;
+}
+.caption{
+    padding: 2% 8%;
+}
+
+@media only screen and (max-width: 770px){
+    .fl-row-fixed-width {
+        max-width: 100%;
+    }
+}
+
+@media only screen and (max-width: 1500px){
+
+    .fl-row-fixed-width{
+        max-width: 88%;
+}
+}
+

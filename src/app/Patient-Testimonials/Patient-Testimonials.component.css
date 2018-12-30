@@ -1,0 +1,27 @@
+h2{
+    color: #69277f;
+}
+.fl-row-fixed-width {
+    max-width: 80%;
+}
+.fl-row-content-wrap{
+    background-color: #ede8ec;
+}
+
+@media only screen and (max-width: 770px){
+    .fl-row-fixed-width {
+        max-width: 100%;
+    }
+}
+@media only screen and (max-width: 1500px){
+
+    .fl-row-fixed-width{
+        max-width: 88%;
+}
+}
+
+
+
+
+
+
